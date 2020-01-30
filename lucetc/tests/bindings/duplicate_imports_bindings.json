@@ -1,6 +1,0 @@
-{
-  "env": {
-    "read": "host_read",
-    "write": "host_write"
-  }
-}
